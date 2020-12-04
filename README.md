@@ -142,3 +142,6 @@ Name|Description
 [CMTool]
 [GPose]
 [GShade]
+[Penumbra] https://github.com/xivdev/Penumbra
+[Ariyala's] https://ffxiv.ariyala.com/BLM
+[Toolbox] https://ff14.toolboxgaming.space/?id=29987164943851&preview=1#2
